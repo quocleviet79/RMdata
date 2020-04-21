@@ -24,7 +24,7 @@
       "id": 2,
       "name": "30 Minute Deep Sleep Music, Soothing Music",
       "link": "https://github.com/quocleviet79/RMdata/blob/master/MusicStory/ms2.mp3?raw=true",
-      "img": "https://github.com/quocleviet79/RMdata/blob/master/Image/bg2.png?raw=true",
+      "img": "https://github.com/quocleviet79/RMdata/blob/master/Meditation/30minmusic/image/img_splash7%403x.png?raw=true",
       "desc": "The perfect relaxing music to help you go to sleep, and enjoy deep sleep. Our music for sleeping is the best music for stress relief, to reduce insomnia, and encourage dreaming",
       "quality": "MP3 320 Kbps, 16 bit /44.1 khz",
       "tempo": "102 bpm",
@@ -109,6 +109,106 @@
       "quality": "MP3 192 Kbps",
       "tempo": "114 bpm",
       "size": "45mb"
+    },
+    {
+      "id": 10,
+      "name": "528 Hz - DNA Upgrade (20 Minute) Meditation",
+      "link": "?raw=true",
+      "img": "https://github.com/quocleviet79/RMdata/blob/master/Meditation/30minmusic/image/3e6b7f19-ad03-46d4-a620-48d98e6d4d7f.jpeg?raw=true",
+      "desc": "",
+      "quality": "MP3 192 Kbps",
+      "tempo": "20 min",
+      "size": "28.9 MB"
     }
+  ,
+    {
+      "id": 10,
+      "name": "Beautiful Violin Cello Piano Instrumental Music",
+      "link": "?raw=true",
+      "img": "https://github.com/quocleviet79/RMdata/blob/master/Meditation/30minmusic/image/Apple%20Watch%20Custom%20Faces.jpeg?raw=true",
+      "desc": "",
+      "quality": "MP3 192 Kbps",
+      "tempo": "31 min",
+      "size": "44.8 MB"
+    }
+  ,
+    {
+      "id": 10,
+      "name": "Indian Meditation Music Indian Flute",
+      "link": "?raw=true",
+      "img": "https://github.com/quocleviet79/RMdata/blob/master/Meditation/30minmusic/image/img_splash10%403x.png?raw=true",
+      "desc": "",
+      "quality": "MP3 192 Kbps",
+      "tempo": "24 min",
+      "size": "35.7 MB"
+    }
+  ,
+    {
+      "id": 10,
+      "name": "Meditation Music for Positive Energy - Inner Peace Music, Healing Music, Relax Mind Body",
+      "link": "?raw=true",
+      "img": "https://github.com/quocleviet79/RMdata/blob/master/Meditation/30minmusic/image/img_splash11%403x.png?raw=true",
+      "desc": "",
+      "quality": "MP3 192 Kbps",
+      "tempo": "30 min",
+      "size": "43.3 MB"
+    }
+  ,
+    {
+      "id": 10,
+      "name": "Modern Music for Yoga Practice Urban Yoga Music",
+      "link": "?raw=true",
+      "img": "https://github.com/quocleviet79/RMdata/blob/master/Meditation/30minmusic/image/img_splash12%403x.png?raw=true",
+      "desc": "",
+      "quality": "MP3 192 Kbps",
+      "tempo": "30 min",
+      "size": "43.7 MB"
+    }
+  ,
+    {
+      "id": 10,
+      "name": "Powerful Tibetan Healing Meditation Music",
+      "link": "?raw=true",
+      "img": "https://github.com/quocleviet79/RMdata/blob/master/Meditation/30minmusic/image/img_splash1%403x.png?raw=true",
+      "desc": "",
+      "quality": "MP3 192 Kbps",
+      "tempo": "30 min",
+      "size": "43.3 MB"
+    }
+  ,
+    {
+      "id": 10,
+      "name": "Relaxing Meditation Music for Stress Relief Bamboo Flute Melody",
+      "link": "?raw=true",
+      "img": "https://github.com/quocleviet79/RMdata/blob/master/Meditation/30minmusic/image/img_splash3%403x.png?raw=true",
+      "desc": "",
+      "quality": "MP3 192 Kbps",
+      "tempo": "30 min",
+      "size": "43.4 MB"
+    }
+  ,
+    {
+      "id": 10,
+      "name": "Water Meditation Music Meditation Music Relax Mind Body Music for Positive Energy Healing",
+      "link": "?raw=true",
+      "img": "https://github.com/quocleviet79/RMdata/blob/master/Meditation/30minmusic/image/img_splash4%403x.png?raw=true",
+      "desc": "",
+      "quality": "MP3 192 Kbps",
+      "tempo": "30 min",
+      "size": "44.1 MB"
+    }
+  ,
+    {
+      "id": 10,
+      "name": "Zen Music for Balance and Relaxation",
+      "link": "?raw=true",
+      "img": "https://github.com/quocleviet79/RMdata/blob/master/Meditation/30minmusic/image/img_splash5%403x.png?raw=true",
+      "desc": "",
+      "quality": "MP3 192 Kbps",
+      "tempo": "30 min",
+      "size": "43.7 MB"
+    }
+  
   ]
 }
+
